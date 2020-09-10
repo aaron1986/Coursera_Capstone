@@ -1,2 +1,2 @@
 #Display output
-prine("New Python file");
+print("New Python file");
