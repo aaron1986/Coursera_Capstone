@@ -1,2 +1,12 @@
-Stadium,city,state,Team,Latitude,Longitude
-34334,fdd,dgd,gfddf,234234,-23232323
+Team,Venue,Address,Latitude,Longitude
+New York Yankees ,Yankee Stadium ,,,
+New York Giants,MetLife Stadium,,,
+New York Rangers ,Madison Square Garden ,,,
+New York Knicks,Madison Square Garden ,,,
+New York Jets ,MetLife Stadium,,,
+New York Mets,Citi Field ,,,
+Brooklyn Nets ,Barclays Center ,,,
+New York Islanders ,Barclays CenterNassau Coliseum ,,,
+New Jersey Devils ,Prudential Center ,,,
+New York Red Bulls ,Red Bull Arena ,,,
+New York City FC ,Yankee Stadium ,,,
