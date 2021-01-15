@@ -1,0 +1,307 @@
+"Name,C,100","Stacked,N,4,0","AnnoLine1,C,50","AnnoLine2,C,50","AnnoLine3,C,50","AnnoAngle,N,19,11","Borough,C,50"
+Wakefield,1,Wakefield,,,0,Bronx
+Co-op City,2,Co-op,City,,0,Bronx
+Eastchester,1,Eastchester,,,0,Bronx
+Fieldston,1,Fieldston,,,0,Bronx
+Riverdale,1,Riverdale,,,0,Bronx
+Kingsbridge,1,Kingsbridge,,,0,Bronx
+Marble Hill,2,Marble,Hill,,0,Manhattan
+Woodlawn,1,Woodlawn,,,0,Bronx
+Norwood,1,Norwood,,,0,Bronx
+Williamsbridge,1,Williamsbridge,,,0,Bronx
+Baychester,1,Baychester,,,0,Bronx
+Pelham Parkway,1,Pelham Parkway,,,0,Bronx
+City Island,2,City,Island,,0,Bronx
+Bedford Park,2,Bedford,Park,,0,Bronx
+University Heights,2,University,Heights,,0,Bronx
+Morris Heights,2,Morris,Heights,,0,Bronx
+Fordham,1,Fordham,,,0,Bronx
+East Tremont,2,East,Tremont,,0,Bronx
+West Farms,2,West,Farms,,0,Bronx
+High  Bridge,1,Highbridge,,,0,Bronx
+Melrose,1,Melrose,,,0,Bronx
+Mott Haven,1,Mott Haven,,,0,Bronx
+Port Morris,2,Port,Morris,,0,Bronx
+Longwood,1,Longwood,,,0,Bronx
+Hunts Point,2,Hunts,Point,,0,Bronx
+Morrisania,1,Morrisania,,,0,Bronx
+Soundview,1,Soundview,,,0,Bronx
+Clason Point,2,Clason,Point,,0,Bronx
+Throgs Neck,1,Throgs Neck,,,0,Bronx
+Country Club,2,Country,Club,,0,Bronx
+Parkchester,1,Parkchester,,,0,Bronx
+Westchester Square,2,Westchester,Square,,0,Bronx
+Van Nest,2,Van,Nest,,0,Bronx
+Morris Park,1,Morris Park,,,0,Bronx
+Belmont,1,Belmont,,,0,Bronx
+Spuyten Duyvil,2,Spuyten,Duyvil,,0,Bronx
+North Riverdale,2,North,Riverdale,,0,Bronx
+Pelham Bay,2,Pelham,Bay,,0,Bronx
+Schuylerville,1,Schuylerville,,,0,Bronx
+Edgewater Park,2,Edgewater,Park,,0,Bronx
+Castle Hill,2,Castle,Hill,,0,Bronx
+Olinville,1,Olinville,,,0,Bronx
+Pelham Gardens,2,Pelham,Gardens,,0,Bronx
+Concourse,1,Concourse,,,0,Bronx
+Unionport,1,Unionport,,,0,Bronx
+Edenwald,1,Edenwald,,,0,Bronx
+Bay Ridge,1,Bay Ridge,,,0,Brooklyn
+Bensonhurst,1,Bensonhurst,,,0,Brooklyn
+Sunset Park,2,Sunset,Park,,0,Brooklyn
+Greenpoint,1,Greenpoint,,,0,Brooklyn
+Gravesend,1,Gravesend,,,0,Brooklyn
+Brighton Beach,2,Brighton,Beach,,0,Brooklyn
+Sheepshead Bay,2,Sheepshead,Bay,,0,Brooklyn
+Manhattan Terrace,2,Manhattan,Terrace,,0,Brooklyn
+Flatbush,1,Flatbush,,,0,Brooklyn
+Crown Heights,2,Crown,Heights,,0,Brooklyn
+East Flatbush,1,East Flatbush,,,0,Brooklyn
+Kensington,1,Kensington,,,0,Brooklyn
+Windsor Terrace,2,Windsor,Terrace,,0,Brooklyn
+Prospect Heights,2,Prospect,Heights,,0,Brooklyn
+Brownsville,1,Brownsville,,,0,Brooklyn
+Williamsburg,1,Williamsburg,,,0,Brooklyn
+Bushwick,1,Bushwick,,,0,Brooklyn
+Bedford Stuyvesant,1,Bedford Stuyvesant,,,0,Brooklyn
+Brooklyn Heights,2,Brooklyn,Heights,,0,Brooklyn
+Cobble Hill,2,Cobble,Hill,,0,Brooklyn
+Carroll Gardens,2,Carroll,Gardens,,0,Brooklyn
+Red Hook,2,Red,Hook,,0,Brooklyn
+Gowanus,1,Gowanus,,,0,Brooklyn
+Fort Greene,2,Fort,Greene,,0,Brooklyn
+Park Slope,2,Park,Slope,,0,Brooklyn
+Cypress Hills,2,Cypress,Hills,,0,Brooklyn
+East New York,1,East New York,,,0,Brooklyn
+Starrett City,2,Starrett,City,,0,Brooklyn
+Canarsie,1,Canarsie,,,0,Brooklyn
+Flatlands,1,Flatlands,,,0,Brooklyn
+Mill Island,2,Mill,Island,,0,Brooklyn
+Manhattan Beach,2,Manhattan,Beach,,0,Brooklyn
+Coney Island,1,Coney Island,,,0,Brooklyn
+Bath Beach,2,Bath,Beach,,0,Brooklyn
+Borough Park,2,Borough,Park,,0,Brooklyn
+Dyker Heights,2,Dyker,Heights,,0,Brooklyn
+Gerritsen Beach,2,Gerritsen,Beach,,0,Brooklyn
+Marine Park,1,Marine Park,,,0,Brooklyn
+Clinton Hill,2,Clinton,Hill,,0,Brooklyn
+Sea Gate,2,Sea,Gate,,0,Brooklyn
+Downtown,1,Downtown,,,0,Brooklyn
+Boerum Hill,2,Boerum,Hill,,0,Brooklyn
+Prospect Lefferts Gardens,3,Prospect,Lefferts,Gardens,0,Brooklyn
+Ocean Hill,2,Ocean,Hill,,0,Brooklyn
+City Line,2,City,Line,,0,Brooklyn
+Bergen Beach,2,Bergen,Beach,,0,Brooklyn
+Midwood,1,Midwood,,,0,Brooklyn
+Prospect Park South,2,Prospect,Park South,,0,Brooklyn
+Georgetown,1,Georgetown,,,0,Brooklyn
+East Williamsburg,2,East,Williamsburg,,0,Brooklyn
+North Side,1,North Side,,,0,Brooklyn
+South Side,1,South Side,,,0,Brooklyn
+Ocean Parkway,2,Ocean,Parkway,,0,Brooklyn
+Fort Hamilton,2,Fort,Hamilton,,0,Brooklyn
+Chinatown,1,Chinatown,,,0,Manhattan
+Washington Heights,2,Washington, Heights,,0,Manhattan
+Inwood,1,Inwood,,,0,Manhattan
+Hamilton Heights,2,Hamilton,Heights,,0,Manhattan
+Manhattanville,2,Manhattanville,,,0,Manhattan
+Central Harlem,2,Central,Harlem,,0,Manhattan
+East Harlem,2,East,Harlem,,0,Manhattan
+Upper East Side,3,Upper,East,Side,0,Manhattan
+Yorkville,1,Yorkville,,,0,Manhattan
+Lenox Hill,2,Lenox,Hill,,0,Manhattan
+Roosevelt Island,1,Roosevelt Island,,,56,Manhattan
+Upper West Side,3,Upper,West,Side,0,Manhattan
+Lincoln Square,2,Lincoln,Square,,0,Manhattan
+Clinton,1,Clinton,,,0,Manhattan
+Midtown,1,Midtown,,,0,Manhattan
+Murray Hill,2,Murray,Hill,,0,Manhattan
+Chelsea,1,Chelsea,,,0,Manhattan
+Greenwich Village,2,Greenwich,Village,,0,Manhattan
+East Village,2,East,Village,,0,Manhattan
+Lower East Side,3,Lower,East,Side,0,Manhattan
+Tribeca,1,Tribeca,,,0,Manhattan
+Little Italy,2,Little,Italy,,0,Manhattan
+Soho,1,Soho,,,0,Manhattan
+West Village,2,West,Village,,0,Manhattan
+Manhattan Valley,2,Manhattan,Valley,,0,Manhattan
+Morningside Heights,2,Morningside,Heights,,0,Manhattan
+Gramercy,1,Gramercy,,,0,Manhattan
+Battery Park City,3,Battery,Park,City,0,Manhattan
+Financial District,2,Financial,District,,0,Manhattan
+Astoria,1,Astoria,,,0,Queens
+Woodside,1,Woodside,,,0,Queens
+Jackson Heights,2,Jackson,Heights,,0,Queens
+Elmhurst,1,Elmhurst,,,0,Queens
+Howard Beach,2,Howard,Beach,,0,Queens
+Corona,1,Corona,,,0,Queens
+Forest Hills,2,Forest,Hills,,0,Queens
+Kew Gardens,2,Kew,Gardens,,0,Queens
+Richmond Hill,2,Richmond,Hill,,0,Queens
+Flushing,1,Flushing,,,0,Queens
+Long Island City,3,Long,Island,City,0,Queens
+Sunnyside,1,Sunnyside,,,0,Queens
+East Elmhurst,2,East,Elmhurst,,0,Queens
+Maspeth,1,Maspeth,,,0,Queens
+Ridgewood,1,Ridgewood,,,0,Queens
+Glendale,1,Glendale,,,0,Queens
+Rego Park,1,Rego Park,,,0,Queens
+Woodhaven,1,Woodhaven,,,0,Queens
+Ozone Park,1,Ozone Park,,,0,Queens
+South Ozone Park,2,South,Ozone Park,,0,Queens
+College Point,2,College,Point,,0,Queens
+Whitestone,1,Whitestone,,,0,Queens
+Bayside,1,Bayside,,,0,Queens
+Auburndale,1,Auburndale,,,0,Queens
+Little Neck,2,Little,Neck,,0,Queens
+Douglaston,1,Douglaston,,,0,Queens
+Glen Oaks,2,Glen,Oaks,,0,Queens
+Bellerose,1,Bellerose,,,0,Queens
+Kew Gardens Hills,3,Kew,Gardens,Hills,0,Queens
+Fresh Meadows,2,Fresh,Meadows,,0,Queens
+Briarwood,1,Briarwood,,,0,Queens
+Jamaica Center,2,Jamaica,Center,,0,Queens
+Oakland Gardens,2,Oakland,Gardens,,0,Queens
+Queens Village,2,Queens,Village,,0,Queens
+Hollis,1,Hollis,,,0,Queens
+South Jamaica,1,South Jamaica,,,0,Queens
+St. Albans,1,St. Albans,,,0,Queens
+Rochdale,1,Rochdale,,,0,Queens
+Springfield Gardens,2,Springfield,Gardens,,0,Queens
+Cambria Heights,2,Cambria,Heights,,0,Queens
+Rosedale,1,Rosedale,,,0,Queens
+Far Rockaway,2,Far Rockaway,,,0,Queens
+Broad Channel,2,Broad,Channel,,0,Queens
+Breezy Point,2,Breezy,Point,,0,Queens
+Steinway,1,Steinway,,,0,Queens
+Beechhurst,1,Beechhurst,,,0,Queens
+Bay Terrace,2,Bay,Terrace,,0,Queens
+Edgemere,1,Edgemere,,,0,Queens
+Arverne,1,Arverne,,,0,Queens
+Rockaway Beach,2,Rockaway,Beach,,0,Queens
+Neponsit,1,Neponsit,,,0,Queens
+Murray Hill,2,Murray,Hill,,0,Queens
+Floral Park,1,Floral Park,,,0,Queens
+Holliswood,1,Holliswood,,,0,Queens
+Jamaica Estates,2,Jamaica,Estates,,0,Queens
+Queensboro Hill,2,Queensboro,Hill,,0,Queens
+Hillcrest,1,Hillcrest,,,0,Queens
+Ravenswood,1,Ravenswood,,,0,Queens
+Lindenwood,1,Lindenwood,,,0,Queens
+Laurelton,1,Laurelton,,,0,Queens
+Lefrak City,2,Lefrak,City,,0,Queens
+Belle Harbor,1,Belle Harbor,,,0,Queens
+Rockaway Park,1,Rockaway Park,,,0,Queens
+Somerville,1,Somerville,,,0,Queens
+Brookville,1,Brookville,,,0,Queens
+Bellaire,1,Bellaire,,,0,Queens
+North Corona,2,North,Corona,,0,Queens
+Forest Hills Gardens,3,Forest,Hills,Gardens,0,Queens
+St. George,2,St.,George,,0,Staten Island
+New Brighton,2,New,Brighton,,0,Staten Island
+Stapleton,1,Stapleton,,,0,Staten Island
+Rosebank,1,Rosebank,,,0,Staten Island
+West Brighton,2,West,Brighton,,0,Staten Island
+Grymes Hill,2,Grymes,Hill,,0,Staten Island
+Todt Hill,2,Todt,Hill,,0,Staten Island
+South Beach,2,South,Beach,,0,Staten Island
+Port Richmond,2,Port,Richmond,,0,Staten Island
+Mariner's Harbor,2,Mariner's,Harbor,,0,Staten Island
+Port Ivory,2,Port,Ivory,,0,Staten Island
+Castleton Corners,2,Castleton,Corners,,0,Staten Island
+New Springville,2,New,Springville,,0,Staten Island
+Travis,1,Travis,,,0,Staten Island
+New Dorp,2,New,Dorp,,0,Staten Island
+Oakwood,1,Oakwood,,,0,Staten Island
+Great Kills,2,Great,Kills,,0,Staten Island
+Eltingville,1,Eltingville,,,0,Staten Island
+Annadale,1,Annadale,,,0,Staten Island
+Woodrow,1,Woodrow,,,0,Staten Island
+Tottenville,1,Tottenville,,,0,Staten Island
+Tompkinsville,1,Tompkinsville,,,0,Staten Island
+Silver Lake,2,Silver,Lake,,0,Staten Island
+Sunnyside,1,Sunnyside,,,0,Staten Island
+Ditmas Park,2,Ditmas,Park,,0,Brooklyn
+Wingate,1,Wingate,,,0,Brooklyn
+Rugby,1,Rugby,,,0,Brooklyn
+Park Hill,2,Park,Hill,,0,Staten Island
+Westerleigh,1,Westerleigh,,,0,Staten Island
+Graniteville,1,Graniteville,,,0,Staten Island
+Arlington,1,Arlington,,,0,Staten Island
+Arrochar,1,Arrochar,,,0,Staten Island
+Grasmere,1,Grasmere,,,0,Staten Island
+Old Town,2,Old,Town,,0,Staten Island
+Dongan Hills,2,Dongan,Hills,,0,Staten Island
+Midland Beach,2,Midland,Beach,,0,Staten Island
+Grant City,2,Grant,City,,0,Staten Island
+New Dorp Beach,3,New,Dorp,Beach,0,Staten Island
+Bay Terrace,2,Bay,Terrace,,0,Staten Island
+Huguenot,1,Huguenot,,,0,Staten Island
+Pleasant Plains,2,Pleasant,Plains,,0,Staten Island
+Butler Manor,2,Butler,Manor,,0,Staten Island
+Charleston,1,Charleston,,,0,Staten Island
+Rossville,1,Rossville,,,0,Staten Island
+Arden Heights,2,Arden,Heights,,0,Staten Island
+Greenridge,1,Greenridge,,,0,Staten Island
+Heartland Village,2,Heartland,Village,,0,Staten Island
+Chelsea,1,Chelsea,,,0,Staten Island
+Bloomfield,1,Bloomfield,,,0,Staten Island
+Bulls Head,2,Bulls,Head,,0,Staten Island
+Carnegie Hill,2,Carnegie,Hill,,0,Manhattan
+Noho,1,Noho,,,0,Manhattan
+Civic Center,2,Civic,Center,,0,Manhattan
+Midtown South,2,Midtown,South,,0,Manhattan
+Richmond Town,2,Richmond,Town,,0,Staten Island
+Shore Acres,2,Shore,Acres,,0,Staten Island
+Clifton,1,Clifton,,,0,Staten Island
+Concord,1,Concord,,,0,Staten Island
+Emerson Hill,2,Emerson,Hill,,0,Staten Island
+Randall Manor,2,Randall,Manor,,0,Staten Island
+Howland Hook,2,Howland,Hook,,0,Staten Island
+Elm Park,2,Elm,Park,,0,Staten Island
+Remsen Village,2,Remsen,Village,,0,Brooklyn
+New Lots,2,New,Lots,,0,Brooklyn
+Paerdegat Basin,2,Paerdegat,Basin,,0,Brooklyn
+Mill Basin,2,Mill,Basin,,0,Brooklyn
+Jamaica Hills,2,Jamaica,Hills,,0,Queens
+Utopia,1,Utopia,,,0,Queens
+Pomonok,1,Pomonok,,,0,Queens
+Astoria Heights,2,Astoria,Heights,,0,Queens
+Claremont Village,2,Claremont,Village,,0,Bronx
+Concourse Village,2,Concourse,Village,,0,Bronx
+Mount Eden,2,Mount,Eden,,0,Bronx
+Mount Hope,2,Mount,Hope,,0,Bronx
+Sutton Place,2,Sutton,Place,,0,Manhattan
+Hunters Point,2,Hunters,Point,,0,Queens
+Turtle Bay,2,Turtle,Bay,,0,Manhattan
+Tudor City,2,Tudor,City,,0,Manhattan
+Stuyvesant Town,2,Stuyvesant,Town,,0,Manhattan
+Flatiron,1,Flatiron,,,0,Manhattan
+Sunnyside Gardens,2,Sunnyside,Gardens,,0,Queens
+Blissville,1,Blissville,,,0,Queens
+Fulton Ferry,2,Fulton,Ferry,,0,Brooklyn
+Vinegar Hill,2,Vinegar,Hill,,0,Brooklyn
+Weeksville,1,Weeksville,,,0,Brooklyn
+Broadway Junction,2,Broadway,Junction,,0,Brooklyn
+Dumbo,1,Dumbo,,,0,Brooklyn
+Manor Heights,2,Manor,Heights,,0,Staten Island
+Willowbrook,1,Willowbrook,,,0,Staten Island
+Sandy Ground,2,Sandy,Ground,,0,Staten Island
+Egbertville,1,Egbertville,,,0,Staten Island
+Roxbury,1,Roxbury,,,0,Queens
+Homecrest,1,Homecrest,,,0,Brooklyn
+Middle Village,2,Middle,Village,,0,Queens
+Prince's Bay,2,Prince's,Bay,,0,Staten Island
+Lighthouse Hill,2,Lighthouse,Hill,,0,Staten Island
+Richmond Valley,2,Richmond,Valley,,0,Staten Island
+Malba,1,Malba,,,0,Queens
+Highland Park,2,Highland,Park,,0,Brooklyn
+Madison,1,Madison,,,0,Brooklyn
+Bronxdale,1,Bronxdale,,,0,Bronx
+Allerton,1,Allerton,,,0,Bronx
+Kingsbridge Heights,2,Kingsbridge,Heights,,0,Bronx
+Erasmus,1,Erasmus,,,0,Brooklyn
+Hudson Yards,2,Hudson,Yards,,0,Manhattan
+Hammels,1,Hammels,,,0,Queens
+Bayswater,1,Bayswater,,,0,Queens
+Queensbridge,1,Queensbridge,,,0,Queens
+Fox Hills,2,Fox,Hills,,0,Staten Island
